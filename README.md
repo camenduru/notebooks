@@ -9,3 +9,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/notebooks/blob/main/camenduru's_codeformer.ipynb) camenduru's_codeformer.ipynb
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/notebooks/blob/main/camenduru's_gfpgan.ipynb) camenduru's_gfpgan.ipynb
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/notebooks/blob/main/camenduru's_sd_image_variations.ipynb) camenduru's_sd_image_variations.ipynb
