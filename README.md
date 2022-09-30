@@ -25,3 +25,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/notebooks/blob/main/camenduru's_tortoise.ipynb) camenduru's_tortoise.ipynb
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/notebooks/blob/main/camenduru's_3d_photo_inpainting.ipynb) camenduru's_3d_photo_inpainting.ipynb
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/notebooks/blob/main/camenduru's_sd_dreambooth_training.ipynb) camenduru's_sd_dreambooth_training.ipynb
