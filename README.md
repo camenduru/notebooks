@@ -16,7 +16,8 @@
     - https://github.com/milesial/Pytorch-UNet
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
     - https://github.com/AntixK/PyTorch-VAE
-
+- [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
+    - https://github.com/deepmind/sonnet/blob/v2/sonnet/src/nets/vqvae.py
 #
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/notebooks/blob/main/camenduru's_stable_diffusion.ipynb) camenduru's_stable_diffusion.ipynb
 
