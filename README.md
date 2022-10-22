@@ -11,12 +11,13 @@
   - https://github.com/CompVis/stable-diffusion
 - [Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models](https://arxiv.org/abs/2207.13038)
   - https://github.com/compvis/latent-diffusion
-  
+#
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
     - https://github.com/milesial/Pytorch-UNet
+- [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
+    - https://github.com/AntixK/PyTorch-VAE
 
-
-# 
+#
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/notebooks/blob/main/camenduru's_stable_diffusion.ipynb) camenduru's_stable_diffusion.ipynb
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/notebooks/blob/main/camenduru's_waifu_diffusion.ipynb) camenduru's_waifu_diffusion.ipynb
