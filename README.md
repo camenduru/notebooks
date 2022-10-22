@@ -3,6 +3,8 @@
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672)
   - https://github.com/hojonathanho/diffusion
   - https://github.com/lucidrains/denoising-diffusion-pytorch
+- [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)
+  - https://github.com/ermongroup/ddim
 - [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672)
   - https://github.com/openai/improved-diffusion
 - [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)
@@ -13,11 +15,17 @@
   - https://github.com/compvis/latent-diffusion
 #
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
-    - https://github.com/milesial/Pytorch-UNet
+  - https://github.com/milesial/Pytorch-UNet
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
-    - https://github.com/AntixK/PyTorch-VAE
+  - https://github.com/AntixK/PyTorch-VAE
 - [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
-    - https://github.com/deepmind/sonnet/blob/v2/sonnet/src/nets/vqvae.py
+  - https://github.com/deepmind/sonnet/blob/v2/sonnet/src/nets/vqvae.py
+- [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
+  - https://github.com/openai/CLIP
+#
+- [labml.ai Deep Learning Paper Implementations](https://nn.labml.ai/index.html)
+  - https://github.com/labmlai/annotated_deep_learning_paper_implementations
+  
 #
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/notebooks/blob/main/camenduru's_stable_diffusion.ipynb) camenduru's_stable_diffusion.ipynb
 
