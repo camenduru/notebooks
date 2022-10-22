@@ -27,7 +27,8 @@
 #
 - [labml.ai Deep Learning Paper Implementations](https://nn.labml.ai/index.html)
   - https://github.com/labmlai/annotated_deep_learning_paper_implementations
-- https://github.com/acids-ircam/diffusion_models  
+- https://github.com/acids-ircam/diffusion_models
+- https://yang-song.net/blog/2021/score/  
 #
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/notebooks/blob/main/camenduru's_stable_diffusion.ipynb) camenduru's_stable_diffusion.ipynb
 
