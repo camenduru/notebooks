@@ -1,4 +1,3 @@
-Study Papers
 - [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585) 
   - https://github.com/Sohl-Dickstein/Diffusion-Probabilistic-Models
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672)
@@ -16,6 +15,8 @@ Study Papers
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
     - https://github.com/milesial/Pytorch-UNet
 
+
+# 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/notebooks/blob/main/camenduru's_stable_diffusion.ipynb) camenduru's_stable_diffusion.ipynb
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/notebooks/blob/main/camenduru's_waifu_diffusion.ipynb) camenduru's_waifu_diffusion.ipynb
