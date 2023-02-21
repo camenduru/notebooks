@@ -1,4 +1,6 @@
-🐣 Please follow me for new updates https://twitter.com/camenduru
+🐣 Please follow me for new updates https://twitter.com/camenduru <br />
+🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
+
 #
 - [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585) 
   - https://github.com/Sohl-Dickstein/Diffusion-Probabilistic-Models
